@@ -6,7 +6,6 @@ import re
 #设置静态文件根目录
 HTML_ROOT_DIR = "."
 
-
 def fun(cli_socket):
     # 接收数据
     # 获取客户端请求数据
